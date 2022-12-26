@@ -1,0 +1,3 @@
+main.c file contains the creation of a subprocess(fork()), 
+signal handlers of SIGINT and SIGTERM and a custom handler(atexit(...)).
+And also simple Makefile to build main program.

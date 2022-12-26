@@ -1,0 +1,1 @@
+main.c is the implementation of ls command with -a, -l and -la(-al) options. Also has a color output.

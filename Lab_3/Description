@@ -1,0 +1,1 @@
+First program sends data string with its current time and pid to the second program using shared memory.

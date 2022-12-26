@@ -1,0 +1,1 @@
+This program create one writing thread and 10 reading threads, all of them controlled by mutex. 

@@ -1,0 +1,2 @@
+main.c is a source code.
+There are make, make clean, make run(with an opportunity to pass arguments) rules in the Makefile.
